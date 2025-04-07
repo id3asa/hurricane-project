@@ -1,0 +1,40 @@
+.hurricane-table {
+    width: 90%;
+  }
+.mat-column-name {
+    width: 92px;
+    border-left: 1px solid currentColor;
+    border-right: 1px solid currentColor;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+.mat-column-dateOfLandfall {
+    width: 160px;
+    border-right: 1px solid currentColor;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+.mat-column-categoryAtLandfall {
+    width: 160px;
+    border-right: 1px solid currentColor;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+.mat-column-maximumSustainedWinds {
+    width: 160px;
+    border-right: 1px solid currentColor;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+.mat-column-estimatedDamage {
+    width: 160px;
+    border-right: 1px solid currentColor;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+  
