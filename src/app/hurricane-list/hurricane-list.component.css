@@ -37,4 +37,18 @@
     text-align: left;
     font-weight: bold;
 }
+.mat-column-fatalities {
+    width: 110px;
+    border-right: 1px solid currentColor;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+.mat-column-stormSurge {
+    width: 110px;
+    border-right: 1px solid currentColor;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
   

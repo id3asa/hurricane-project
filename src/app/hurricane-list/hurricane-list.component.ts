@@ -15,6 +15,6 @@ const ELEMENT_DATA: HurricaneStats[] = [
   styleUrls: ['./hurricane-list.component.css']
 })
 export class HurricaneListComponent {
-  displayedColumns: string[] = ['name', 'dateOfLandfall', 'categoryAtLandfall', 'maximumSustainedWinds', 'estimatedDamage'];
+  displayedColumns: string[] = ['name', 'dateOfLandfall', 'categoryAtLandfall', 'maximumSustainedWinds', 'estimatedDamage', 'fatalities', 'stormSurge'];
   dataSource = ELEMENT_DATA;
 }
